@@ -24,8 +24,8 @@ Below are the BibTex entries to cite the paper and data set.
 ```
 @misc{siqueira_rodrigues_data_2023,
 	title = {Data from "{Comparing} the {Effects} of {Visual}, {Haptic}, and {Visuohaptic} {Encoding} on {Error} {Rate} and {Response} {Time} in {Virtual} {Reality}"},
-	url = {https://github.com/lsrodri/VHMatchData},
-	publisher = {https://github.com/lsrodri/VHMatchData},
+	url = {https://github.com/lsrodri/VHMatch},
+	publisher = {https://github.com/lsrodri/VHMatch},
 	author = {Siqueira Rodrigues, Lucas and Schmidt, Timo T. and Nyakatura, John and Zachow, Stefan and Israel, Johann Habakuk and Kosch, Thomas},
 	year = {2023},
 }
