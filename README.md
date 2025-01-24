@@ -15,8 +15,6 @@ The paper is available in [Arxiv link](https://)
 
 The contained "source code" (i.e., Python scripts and Jupyter Notebooks) of this work is made available under the terms of [GNU GPLv3](./LICENSE). They are fully available also in the [Open Science Framework](https://).
 
-Copyright &copy; 2023. [Cluster of Excellence Matters of Activity](https://www.matters-of-activity.de/). All rights reserved.
-
 ## Citing the Paper and Application
 
 Below are the BibTex entries to cite the paper and data set.
@@ -30,3 +28,8 @@ Below are the BibTex entries to cite the paper and data set.
 	year = {2023},
 }
 ```
+
+## Acknowledgements
+The author acknowledges the support of the Cluster of Excellence »Matters of Activity. Image Space Material« funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy – EXC 2025 – 390648296.
+
+Copyright &copy; 2023. [Cluster of Excellence Matters of Activity](https://www.matters-of-activity.de/). All rights reserved.
